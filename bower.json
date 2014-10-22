@@ -1,0 +1,25 @@
+{
+  "name": "bowreal",
+  "version": "0.0.0",
+  "description": "Bower manager to start websites projects",
+  "keywords": [
+    "projects",
+    "css",
+    "html5",
+    "web",
+    "css3",
+    "less"
+  ],
+  "authors": [
+    "Fernando Aureliano"
+  ],
+  "license": "MIT",
+  "homepage": "http://fernandoaureliano.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
